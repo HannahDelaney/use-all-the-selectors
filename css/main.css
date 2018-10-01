@@ -27,11 +27,11 @@ contents, favs, facts, types {
 }
 
 .dfn + strong {
-  color:fff;
+  color: #fff;
 }
 
 a:not(.no-highlight) {
-  background-color: #719e07;
+  background-color: #719e47;
 }
 
 [rel="external"] {
@@ -39,7 +39,7 @@ a:not(.no-highlight) {
 }
 
 ol li:first-child {
-  color:#719e47;
+  color: #719e47;
 }
 
 ol li:last-child {
