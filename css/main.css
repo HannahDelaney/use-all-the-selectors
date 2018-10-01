@@ -29,3 +29,15 @@ contents, favs, facts, types {
 .dfn + strong {
   color:fff;
 }
+
+a:not(.no-highlight) {
+  background-color: #719e07;
+}
+
+[rel="external"] {
+  background-color: #2694d8;
+}
+
+ol:first-of-type {
+  color:#719e47;
+}
